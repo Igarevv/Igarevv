@@ -31,3 +31,6 @@
 </div>
 
 ###
+<div align="left">
+  <img src="https://github.com/Igarevv/Igarevv/blob/main/2025-08-25_21-27.png" alt="Activity Graph">
+</div>
